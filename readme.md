@@ -10,7 +10,7 @@ Please give it a star(⭐) to raise awareness about J2ME community, and support 
 
 <!--lint disable double-link-->
 
-Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 436,154 | 🐛 68 | 📅 2026-01-28, [Hackclub](https://retrospect.hackclub.com/j2me), [Awesome Java](https://github.com/akullpp/awesome-java) ⭐ 46,961 | 🐛 3 | 📅 2026-02-07 and more.
+Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 436,352 | 🐛 69 | 📅 2026-01-28, [Hackclub](https://retrospect.hackclub.com/j2me), [Awesome Java](https://github.com/akullpp/awesome-java) ⭐ 46,976 | 🐛 3 | 📅 2026-02-07 and more.
 
 ## Contents
 
@@ -64,7 +64,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 4
 
 ## Emulators
 
-* [J2ME Loader](https://github.com/nikita36078/J2ME-Loader) ⭐ 2,473 | 🐛 212 | 🌐 Java | 📅 2026-02-06 - J2ME emulator for Android.
+* [J2ME Loader](https://github.com/nikita36078/J2ME-Loader) ⭐ 2,475 | 🐛 212 | 🌐 Java | 📅 2026-02-06 - J2ME emulator for Android.
 * [FreeJ2ME](https://github.com/hex007/freej2me) ⭐ 612 | 🐛 65 | 🌐 Java | 📅 2026-01-13 - J2ME emulator with LibRetro, AWT and SDL2 frontends.
 * [KEmulator nnmod](https://github.com/shinovon/KEmulator) ⭐ 334 | 🐛 78 | 🌐 Java | 📅 2026-02-09 - Open source J2ME emulator in Java, based on KEmulator 1.0.3.
 * [SquirrelJME](https://github.com/squirreljme/squirreljme) ⭐ 299 | 🐛 57 | 🌐 Java | 📅 2026-02-08 - Java ME 8 Virtual Machine for embedded and Internet of Things devices.
@@ -115,9 +115,9 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 4
 
 ### Decompilers
 
-* [Recaf](https://github.com/Col-E/Recaf) ⭐ 6,995 | 🐛 97 | 🌐 Java | 📅 2026-02-08 - Bytecode editor that supports multiple decompilers.
-* [Fernflower](https://github.com/fesh0r/fernflower) ⭐ 4,158 | 🐛 0 | 🌐 Java | 📅 2026-02-06 - Analytical Java decompiler by JetBrains.
-* [Vineflower](https://github.com/vineflower/vineflower) ⭐ 1,959 | 🐛 87 | 🌐 Java | 📅 2026-01-19 - Fork of Fernflower decompiler with improved output quality.
+* [Recaf](https://github.com/Col-E/Recaf) ⭐ 6,995 | 🐛 97 | 🌐 Java | 📅 2026-02-09 - Bytecode editor that supports multiple decompilers.
+* [Fernflower](https://github.com/fesh0r/fernflower) ⭐ 4,163 | 🐛 0 | 🌐 Java | 📅 2026-02-06 - Analytical Java decompiler by JetBrains.
+* [Vineflower](https://github.com/vineflower/vineflower) ⭐ 1,963 | 🐛 87 | 🌐 Java | 📅 2026-01-19 - Fork of Fernflower decompiler with improved output quality.
 * [Jd Decompiler](https://java-decompiler.github.io) - Java decompiler with support for Java 5 and later.
 * [Javadecompilers.com](https://www.javadecompilers.com) - Online Java decompiler that supports various decompilers.
 
