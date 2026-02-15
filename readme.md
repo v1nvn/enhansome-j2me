@@ -10,7 +10,7 @@ Please give it a star(⭐) to raise awareness about J2ME community, and support 
 
 <!--lint disable double-link-->
 
-Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 437,262 | 🐛 69 | 📅 2026-01-28, [Hackclub](https://retrospect.hackclub.com/j2me), [Awesome Java](https://github.com/akullpp/awesome-java) ⭐ 47,020 | 🐛 3 | 📅 2026-02-07 and more.
+Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 437,496 | 🐛 70 | 📅 2026-01-28, [Hackclub](https://retrospect.hackclub.com/j2me), [Awesome Java](https://github.com/akullpp/awesome-java) ⭐ 47,037 | 🐛 3 | 📅 2026-02-07 and more.
 
 ## Contents
 
@@ -19,6 +19,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 4
   * [IDEs](#ides)
   * [SDKs](#sdks)
 * [Emulators](#emulators)
+* [Finance](#finance)
 * [Hardware](#hardware)
 * [Native Software](#native-software)
   * [Apps](#apps)
@@ -54,7 +55,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 4
 
 * [Extra Transit Mobile Interaction Suite](http://web.archive.org/web/20070210202710/http://www.extransit.com) - IDE and SDK for J2ME specializing in the development of internet-based applications.
 * [Hecl](https://www.hecl.org) - A mobile scripting language based on Java, capable of running on J2ME-based devices.
-* [J2ME Polish](https://github.com/Enough-Software/j2mepolish) ⭐ 61 | 🐛 3 | 🌐 Java | 📅 2014-05-07 - Open source, Ant-based build tool for J2ME that supports building for multiple platforms including Blackberry and Symbian.
+* [J2ME Polish](https://github.com/Enough-Software/j2mepolish) ⭐ 62 | 🐛 3 | 🌐 Java | 📅 2014-05-07 - Open source, Ant-based build tool for J2ME that supports building for multiple platforms including Blackberry and Symbian.
 * [MBooster](https://web.archive.org/web/20070314004015/http://innaworks.com/mBooster.html) - Optimizing suite for .jar files. Compresses images, audio, zip files, and optimizes API calls.
 * [Micro Code](https://web.archive.org/web/20061225061546/http://j2me-device-db.sourceforge.net/pmwiki/index.php?n=Main.HomePage) - Cross-device development framework for J2ME. Supports more than 100 devices.
 * [Sony Ericsson](https://archive.org/details/semc_java_me_cldc_sdk.2-5-0-6) - Supports various Sony Ericsson devices. Can run Mascot capsule software too.
@@ -66,12 +67,18 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 4
 
 * [J2ME Loader](https://github.com/nikita36078/J2ME-Loader) ⭐ 2,479 | 🐛 212 | 🌐 Java | 📅 2026-02-06 - J2ME emulator for Android.
 * [FreeJ2ME](https://github.com/hex007/freej2me) ⭐ 613 | 🐛 65 | 🌐 Java | 📅 2026-01-13 - J2ME emulator with LibRetro, AWT and SDL2 frontends.
-* [KEmulator nnmod](https://github.com/shinovon/KEmulator) ⭐ 336 | 🐛 78 | 🌐 Java | 📅 2026-02-09 - Open source J2ME emulator in Java, based on KEmulator 1.0.3.
+* [KEmulator nnmod](https://github.com/shinovon/KEmulator) ⭐ 337 | 🐛 78 | 🌐 Java | 📅 2026-02-09 - Open source J2ME emulator in Java, based on KEmulator 1.0.3.
 * [SquirrelJME](https://github.com/squirreljme/squirreljme) ⭐ 300 | 🐛 57 | 🌐 Java | 📅 2026-02-13 - Java ME 8 Virtual Machine for embedded and Internet of Things devices.
-* [JL Mod](https://github.com/woesss/JL-Mod) ⭐ 260 | 🐛 38 | 🌐 C | 📅 2025-02-13 - Fork of J2ME loader with Mascot capsule v3 support.
+* [JL Mod](https://github.com/woesss/JL-Mod) ⭐ 261 | 🐛 38 | 🌐 C | 📅 2025-02-13 - Fork of J2ME loader with Mascot capsule v3 support.
 * [JS2 J2ME](https://github.com/szatkus/js2me) ⭐ 148 | 🐛 8 | 🌐 JavaScript | 📅 2022-03-28 - J2ME emulator for Firefox OS.
 * [FreeJ2ME Plus](https://github.com/TASEmulators/freej2me-plus) ⭐ 122 | 🐛 28 | 🌐 Java | 📅 2026-02-09 - Active fork of FreeJ2ME.
 * [PSPKvm](https://sourceforge.net/projects/pspkvm/) - J2ME emulator for PSP.
+
+## Finance
+
+* [Glu Mobile 10-K archive](https://www.sec.gov/edgar/search/#/dateRange=all\&category=custom\&entityName=0001366246\&forms=10-K) - Archive of 10-K of Glu Mobile from it's IPO(2007) till acquisition(2021). Includes revenue breakdown by means of distribution and region, management commentary, portfolio of games etc.
+
+* [UPI 123PAY](https://www.npci.org.in/what-we-do/upi-123pay/product-overview) - Official Unified Payment Interface(UPI)payments solution for feature phones by NPCI. Internet not required. Supported only in India.
 
 ## Hardware
 
@@ -89,7 +96,6 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 4
 * [VK4ME](https://github.com/VK4ME/client) ⭐ 20 | 🐛 2 | 🌐 Java | 📅 2025-07-28  - Unofficial client for Russian social network VK for devices supporting CLDC 1.1 and MIDP 2.0.
 * [J2ME Emu Software](https://archive.org/details/j2me-emuSoftware) - Executables, source code of various emulators that run on J2ME.
 * [MeBoy](http://arktos.se/meboy) - Supports emulating GBC with sound, color, and save states.
-* [UPI 123PAY](https://www.npci.org.in/what-we-do/upi-123pay/product-overview) - Official Unified Payment Interface(UPI)payments solution for feature phones by NPCI. Internet not required. Supported only in India.
 * [Opera FTP Archive](https://ftp.opera.com/pub/opera) - Official FTP archive of various versions of Opera browser for all supported platforms.
 
 ### Video Games
@@ -105,7 +111,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 4
 ## Related Projects
 
 * [Awesome Symbian](https://github.com/hstsethi/awesome-symbian) ⭐ 78 | 🐛 1 | 🌐 Java | 📅 2025-11-28 - An Awesome List about everything related to Symbian, a discontinued mobile OS for ARM popular in the early 2000s. It supports J2ME applications.
-* [J2ME Preservation](https://github.com/j2me-preservation/j2me-preservation) ⭐ 42 | 🐛 2 | 🌐 HTML | 📅 2021-04-10 - Archive of various J2ME software.
+* [J2ME Preservation](https://github.com/j2me-preservation/j2me-preservation) ⭐ 43 | 🐛 2 | 🌐 HTML | 📅 2021-04-10 - Archive of various J2ME software.
 * [Cell Phone Game Preservation Wiki](https://cellphonegamespreservation.miraheze.org/wiki/Main_Page) - Wiki dedicated to phone preservation, including emulation and game dumps.
 * [J2ME Fandom](https://j2me.fandom.com/wiki) - Wiki of everything related to J2ME.
 
@@ -115,16 +121,16 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome) ⭐ 4
 
 ### Decompilers
 
-* [Recaf](https://github.com/Col-E/Recaf) ⭐ 7,002 | 🐛 98 | 🌐 Java | 📅 2026-02-13 - Bytecode editor that supports multiple decompilers.
-* [Fernflower](https://github.com/fesh0r/fernflower) ⭐ 4,164 | 🐛 0 | 🌐 Java | 📅 2026-02-13 - Analytical Java decompiler by JetBrains.
-* [Vineflower](https://github.com/vineflower/vineflower) ⭐ 1,966 | 🐛 87 | 🌐 Java | 📅 2026-01-19 - Fork of Fernflower decompiler with improved output quality.
+* [Recaf](https://github.com/Col-E/Recaf) ⭐ 7,009 | 🐛 98 | 🌐 Java | 📅 2026-02-13 - Bytecode editor that supports multiple decompilers.
+* [Fernflower](https://github.com/fesh0r/fernflower) ⭐ 4,165 | 🐛 0 | 🌐 Java | 📅 2026-02-13 - Analytical Java decompiler by JetBrains.
+* [Vineflower](https://github.com/vineflower/vineflower) ⭐ 1,969 | 🐛 87 | 🌐 Java | 📅 2026-01-19 - Fork of Fernflower decompiler with improved output quality.
 * [Jd Decompiler](https://java-decompiler.github.io) - Java decompiler with support for Java 5 and later.
 * [Javadecompilers.com](https://www.javadecompilers.com) - Online Java decompiler that supports various decompilers.
 
 ## Tutorials
 
 * [J2ME In Nutshell](https://www.oreilly.com/library/view/j2me-in-a/059600253X) - "Solid, no-nonsense reference to the 'alphabet soup' of micro edition programming, covering the CLDC, CDC, KVM and more."
-* [Revive Nokia N95](https://github.com/domib97/revive.nokia.n95) ⭐ 58 | 🐛 1 | 📅 2024-07-23 - A quick guide to revive the legacy Nokia N95 and develop for it.
+* [Revive Nokia N95](https://github.com/domib97/revive.nokia.n95) ⭐ 59 | 🐛 1 | 📅 2024-07-23 - A quick guide to revive the legacy Nokia N95 and develop for it.
 * [J2ME Docs](https://nikita36078.github.io/J2ME_Docs) - Documentation for J2ME and some vendor-specific APIs.
 * [Java ME 3.4 Developer's Guide for NetBeans on Windows](https://docs.oracle.com/javame/dev-tools/jme-sdk-3.4/nb/html/toc.htm) - Official tutorial on SDK 3.4, NetBeans on Windows variant.
 
